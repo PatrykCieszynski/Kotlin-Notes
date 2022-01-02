@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="item_title">Item Title</string>
+    <string name="note_icon">Note icon</string>
+    <string name="item_date">Item Date</string>
+    <string name="wszystkie_notatki">Wszystkie notatki:</string>
+    <string name="buttonaddnote">buttonaddnote</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title">Tytuł</string>
+    <string name="content">Zawartość notatki</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="edytuj">Edytuj</string>
+    <string name="title_activity_add_or_edit_note">AddOrEditNoteActivity</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
