@@ -2,9 +2,9 @@
 >Simple app for notes
 
 ## Screenshots
-<img src="./img/Screenshot1.png" height="100">
-<img src="./img/Screenshot2.png" height="100">
-<img src="./img/Screenshot3.png" height="100">
+<img src="./img/Screenshot1.png" height="400">
+<img src="./img/Screenshot2.png" height="400">
+<img src="./img/Screenshot3.png" height="400">
 
 ## Technologies
 Kotlin
