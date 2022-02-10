@@ -1,5 +1,5 @@
 # Kotlin Notes
->Simple app for notes
+>Simple app for notes with database
 
 ## Screenshots
 <img src="./img/Screenshot1.png" height="500"> <img src="./img/Screenshot2.png" height="500"> <img src="./img/Screenshot3.png" height="500">
