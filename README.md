@@ -2,7 +2,7 @@
 >Simple app for notes
 
 ## Screenshots
-![Example screenshot](./img/Screenshot1.png | width=100)
+<img src="./img/Screenshot1.png" width="100" height="100">
 ![Example screenshot](./img/Screenshot2.png | width=100)
 ![Example screenshot](./img/Screenshot3.png | width=100)
 
